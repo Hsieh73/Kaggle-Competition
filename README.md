@@ -7,4 +7,4 @@
 
 # 方法
 Haversine距離是一個用來計算兩個經緯度點之間距離的方法   
-$\alpha$
+$a=\sin^2(\frac{\delta \phi}{2})$
