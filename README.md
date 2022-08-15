@@ -7,4 +7,5 @@
 
 # 方法
 Haversine距離是一個用來計算兩個經緯度點之間距離的方法   
-$a=\sin^2(\frac{\Delta \phi}{2})+\cos (\phi_{1}) \cdot \cos (\phi_{2}) \cdot \sin^2(\frac{\lambda \phi}{2})$
+$a=\sin^2(\frac{\Delta \phi}{2})+\cos (\phi_{1}) \cdot \cos (\phi_{2}) \cdot \sin^2(\frac{\Delta \lambda}{2})$   
+$c=2 \cdot \arctan 2(\sqrt{a},\sqrt{1-a})$
