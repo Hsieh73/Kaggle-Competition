@@ -12,6 +12,6 @@ Haversine距離是一個用來計算兩個經緯度點之間距離的方法
 <p align="center">$d=R\cdot c$</p>     
 其中 $R=6371$(以公里為單位的地球平均半徑)，          
 $\phi=$ 緯度，
-$\lambda=$ 經度。   
+$\lambda=$ 經度。           
 
 接著將計算好的距離套入一些常見的模型，再調整模型內的參數，這裡使用到KDTree、SVC、Softmax Regression、SGD、Decision Tree、Naive Bayes六種模型
