@@ -1,5 +1,5 @@
 # 介紹
-這是Kaggle上的一個競賽，https://www.kaggle.com/competitions/foursquare-location-matching。    
+這是Kaggle上的一個競賽，https://www.kaggle.com/competitions/foursquare-location-matching。       
 
 當在未知區域尋找附近的餐館或計劃差事時，期望獲得相關、準確的訊息。Foursquare 擁有 12 年以上完善此類方法的經驗，是全球 POI (points-of-interest) 數據的第一大獨立提供商。為了保持最高水平的準確性，數據必須通過來自多個來源的及時更新進行匹配和刪除重複資料。     
 
