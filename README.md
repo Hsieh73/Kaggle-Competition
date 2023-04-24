@@ -17,3 +17,4 @@ $\lambda= $ 經度。
 接著將計算好的距離套入一些常見的模型，再調整模型內的參數，這裡使用到KDTree、SVC、Softmax Regression、SGD、Decision Tree、Naive Bayes六種模型。
 
    
+$\binom{n+1}{2k}$
