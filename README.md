@@ -5,7 +5,7 @@
 
 在此比賽中，將匹配 POI。使用包含超過一百萬個 Places 項目的數據集，這些項目經過大量修改以包含雜訊、重複、無關或不正確的信息，目的是生成一種算法來預測哪些 Place 項目代表相同的興趣點。每個 Place 項目都包含名稱、街道地址和坐標等屬性。
 
-# 方法
+# 使用方法
 Haversine距離是一個用來計算兩個經緯度點之間距離的方法   
 <p align="center">$a=\sin^2(\frac{\Delta \phi}{2})+\cos (\phi_{1}) \cdot \cos (\phi_{2}) \cdot \sin^2(\frac{\Delta \lambda}{2})$</p>   
 <p align="center">$c=2 \cdot \arctan 2(\sqrt{a},\sqrt{1-a})$</p>               
