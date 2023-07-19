@@ -10,8 +10,8 @@ Haversine距離是一個用來計算兩個經緯度點之間距離的方法
 <p align="center">$a=\sin^2(\frac{\Delta \phi}{2})+\cos (\phi_{1}) \cdot \cos (\phi_{2}) \cdot \sin^2(\frac{\Delta \lambda}{2})$</p>   
 <p align="center">$c=2 \cdot \arctan 2(\sqrt{a},\sqrt{1-a})$</p>               
 <p align="center">$d=R\cdot c$</p>       
-其中 $\math{R}=6371$ (以公里為單位的地球平均半徑)，               
-$\phi= $ 緯度，   
+其中 $R=6371$ (以公里為單位的地球平均半徑)，                
+$\phi$=  緯度，   
 $\lambda= $ 經度。      
 
 
